@@ -31,7 +31,7 @@
 
        tabLayout.setupWithViewPager(viewPager);
         //注意以后监听页面的变化 ，TabPageIndicator监听页面的变化
-//       tabLayout.setOnPageChangeListener(new MyOnPageChangeListener());
+
         viewPager.addOnPageChangeListener(new MyOnPageChangeListener());
         tabLayout.setTabMode(TabLayout.MODE_SCROLLABLE);
 
