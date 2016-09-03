@@ -1,4 +1,12 @@
 开源项目网站
+
+http://hukai.me/				内存优化
+https://github.com/hehonghui/android-tech-frontier/wiki	好的文章
+https://github.com/android-cn/android-open-project-analysis	开源框架源码解析
+https://github.com/Freelander/Android_Data	丰富的资源
+https://github.com/pcqpcq/open-source-android-apps 开源项目分类简介
+https://github.com/Blankj/AndroidUtilCode	丰富的工具类
+
 https://github.com/Trinea/android-open-project	Android 开源项目分类汇总
 http://www.23code.com/				android经典开源代码分享
 http://www.jcodecraeer.com/plus/list.php?tid=16 泡在网上的日子
