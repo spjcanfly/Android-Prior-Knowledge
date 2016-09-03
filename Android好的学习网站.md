@@ -21,3 +21,46 @@ http://www.android-doc.com/index.html   还有这个   中文的android官网
 https://github.com/goagent/goagent
 
 开源代码网站: code.google.com (需要翻墙)
+
+Android工具下载网站
+http://www.androiddevtools.cn/
+
+Android开发解决方案整合平台
+http://www.devstore.cn/
+
+Android源码搜索：
+http://androidxref.com/
+
+源码分析：
+http://www.codekk.com/open-source-project-analysis
+
+
+手机测试机型
+http://www.umindex.com/
+
+// 代码库
+http://git.oschina.net/
+
+---------------------------------------------------------------------------------
+布局资源代码生成：
+http://android.lineten.net/layout.php
+
+Fragment代码生成：
+http://www.andreamaglie.com/android-fragment-generator/index.html
+
+Android属性动画：
+http://bbs.itheima.com/thread-172632-1-1.html
+
+Android 编程下 Touch 事件的分发和消费机制
+http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html
+
+右滑返回
+https://github.com/apkdemo/SwipeBackLayout
+
+APP:
+DevAppsDirect: 该app可以在GooglePlay下载，收集所有view特效和开源类库，	
+                可以直接运行观看效果
+同类的还有：Libraries for developers、Android UI Patterns，
+
+干货集中营
+https://github.com/maoruibin/GankDaily
