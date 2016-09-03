@@ -64,3 +64,42 @@ DevAppsDirect: 该app可以在GooglePlay下载，收集所有view特效和开源
 
 干货集中营
 https://github.com/maoruibin/GankDaily
+
+翻墙插件：http://www.suidao.in/   Green(翻墙软件)
+拉勾网：www.lagou.com 
+
+---------------------------------------------------------------------------------
+安卓巴士：2015年7月优秀源码推荐
+http://www.apkbus.com/forum.php?mod=viewthread&tid=245322&extra=&_dsign=6d1f03ff
+
+Android Fragment 问题和知识点汇总
+http://www.apkbus.com/forum.php?mod=viewthread&tid=245035&extra=&_dsign=52ff014a
+
+Android RecyclerView源码与知识点汇总
+http://bbs.apkbus.com/article/13899
+
+Android源码大放送之material design类型
+http://www.apkbus.com/forum.php?mod=viewthread&tid=243232
+
+2015必须要看的APP源码
+http://www.apkbus.com/forum.php?mod=viewthread&tid=242910&extra=
+
+Android自定义控件View的探讨
+http://www.apkbus.com/forum.php?mod=viewthread&tid=242501&extra=page%3D1
+
+Android studio专区第一季
+http://www.apkbus.com/forum.php?mod=viewthread&tid=241998&extra=
+
+数据传输利器--Event Bus模式
+http://www.apkbus.com/forum.php?mod=viewthread&tid=241009&page=1&extra=
+
+关注应用安全--反逆向实战 
+http://www.apkbus.com/forum.php?mod=viewthread&tid=240707&extra=page%3D1
+
+
+
+---------------------------------------------------------------------------------
+http://www.fresco-cn.org/docs/compile-in-android-studio.html#_
+
+节操播放器
+https://github.com/lipangit/JieCaoVideoPlayer
