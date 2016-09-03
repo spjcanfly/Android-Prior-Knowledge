@@ -1,24 +1,37 @@
 开源项目网站
 
 http://hukai.me/				内存优化
+
 https://github.com/hehonghui/android-tech-frontier/wiki	好的文章
-https://github.com/android-cn/android-open-project-analysis	开源框架源码解析
+
+https://github.com/android-cn/android-open-project-analysis	
+
 https://github.com/Freelander/Android_Data	丰富的资源
+
 https://github.com/pcqpcq/open-source-android-apps 开源项目分类简介
+
 https://github.com/Blankj/AndroidUtilCode	丰富的工具类
 
 https://github.com/Trinea/android-open-project	Android 开源项目分类汇总
+
 http://www.23code.com/				android经典开源代码分享
+
 http://www.jcodecraeer.com/plus/list.php?tid=16 泡在网上的日子
+
 http://www.oschina.net/code/list		开源中国
+
 http://neast.cn/portal.php			爱开网（好多总结的源码）
+
 http://www.eoeandroid.com/forum.php?gid=180	EOE安卓开发社区
 
 http://www.apkbus.com/				安卓巴士
+
 http://stackoverflow.com/    			问答类，可以找到解决问题(即时很偏的问题)的方案
+
 http://www.23code.com/       			view特效收集，涵盖基本所有特效的网站
 
 http://www.godcoder.com/			国外的
+
 http://www.java123.net/mobile/
 
 http://appxcode.com/index.php?con=index&act=category&cid=5&p=1
