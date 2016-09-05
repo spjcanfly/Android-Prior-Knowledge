@@ -1,5 +1,6 @@
 开源项目网站
 
+http://www.cnblogs.com/bluestorm/archive/2013/06/01/3112747.html    AS的使用手册 
 http://hukai.me/				内存优化
 
 https://github.com/hehonghui/android-tech-frontier/wiki	好的文章
