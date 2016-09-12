@@ -40,5 +40,7 @@
 
      EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，
      Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。
+     
+     新版本是3.0,不兼容老版本
 
     
