@@ -13,6 +13,9 @@
     高度的解耦，异常的灵活，自己不用管复用item，不过监听需要自己写
 
     使用找到library，导入recycleView的V7包
+    
+     //注意recycleview必须要加上这一句
+    recycleview.setLayoutManager(new LinearLayoutManager(mContext,LinearLayoutManager.VERTICAL,false));
 
 ##3.第三方框架，LRecycleView 
 
