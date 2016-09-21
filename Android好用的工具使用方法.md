@@ -53,3 +53,4 @@
 
     3.订阅函数不需要都以onEvent开头了（此处有坑，订阅函数一定要写成public）
     
+##11.fragment的框架，基本都是用fragment实现的各个功能
