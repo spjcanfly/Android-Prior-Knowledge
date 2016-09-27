@@ -16,6 +16,8 @@
     
      //注意recycleview必须要加上这一句
     recycleview.setLayoutManager(new LinearLayoutManager(mContext,LinearLayoutManager.VERTICAL,false));
+    //加载布局
+    LayoutInflater.from(context).inflate(R.layout.simple_list_item_1, parent, false);
 
 ##3.第三方框架，LRecycleView 
 
