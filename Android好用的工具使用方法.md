@@ -39,7 +39,7 @@
 
     导入的库：com.android.support:design:23.0.1
 
-##9.slidingmenu 侧滑按钮
+##9.第三方的slidingmenu 侧滑按钮，DrawerLayout谷歌官方推荐的组件，抽屉布局
 
 ##10.EventBus 
 
