@@ -18,6 +18,7 @@
     recycleview.setLayoutManager(new LinearLayoutManager(mContext,LinearLayoutManager.VERTICAL,false));
     //加载布局
     LayoutInflater.from(context).inflate(R.layout.simple_list_item_1, parent, false);
+    这样加载布局可以使得布局文件中根节点如果只需要一个控件的话，不用外面套一个linearlayout
 
 ##3.第三方框架，LRecycleView 
 
