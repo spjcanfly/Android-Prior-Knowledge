@@ -12,7 +12,9 @@
 
     高度的解耦，异常的灵活，自己不用管复用item，不过监听需要自己写
 
-    使用找到library，导入recycleView的V7包
+    使用找到library，导入recycleView的V7包，Recycleview嵌套Recycleview高度设置为wrap_content，子item不显示（compile 
+
+    'com.android.support:recyclerview-v7:23.2.0'之后才行，之前的版本有bug）
     
      //注意recycleview必须要加上这一句
     recycleview.setLayoutManager(new LinearLayoutManager(mContext,LinearLayoutManager.VERTICAL,false));
