@@ -42,7 +42,8 @@
 
     导入的库：com.android.support:design:23.0.1
 
-##9.第三方的slidingmenu 侧滑按钮，DrawerLayout谷歌官方推荐的组件，抽屉布局
+##9.第三方的slidingmenu 侧滑按钮，DrawerLayout谷歌官方推荐的组件，抽屉布局，在用抽屉布局的时候，
+里面的最上面是个framlayout，把需要写的布局写在那个里面。
 
 ##10.EventBus 
 
