@@ -64,7 +64,7 @@
     //2.eventBus 订阅函数(这个方法一定要是public)
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void showDataView(MediaItem mediaItem) {
-    //3.enventBus 事件发布（其他类，发布的）
+    //3.enventBus 事件发布（其他类，发布的）,这个参数可以根据需要改变
         EventBus.getDefault().post(mediaItem);
     //4.取消注册
         EventBus.getDefault().unregister(this);
