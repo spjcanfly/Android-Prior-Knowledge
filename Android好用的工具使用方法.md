@@ -59,6 +59,16 @@
 
     3.订阅函数不需要都以onEvent开头了（此处有坑，订阅函数一定要写成public）
     
+    //1.注册eventBus
+        EventBus.getDefault().register(this);
+    //2.eventBus 订阅函数(这个方法一定要是public)
+    @Subscribe(threadMode = ThreadMode.MAIN)
+    public void showDataView(MediaItem mediaItem) {
+    //3.enventBus 事件发布（其他类，发布的）
+        EventBus.getDefault().post(mediaItem);
+    //4.取消注册
+        EventBus.getDefault().unregister(this);
+    
 ##11.fragment的框架，基本都是用fragment实现的各个功能
 
 ##12.代码的混淆
