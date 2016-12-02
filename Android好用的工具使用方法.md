@@ -21,7 +21,8 @@
     //加载布局
     LayoutInflater.from(context).inflate(R.layout.simple_list_item_1, parent, false);
     这样加载布局可以使得布局文件中根节点如果只需要一个控件的话，不用外面套一个linearlayout
-
+    
+    这周做一个小功能的时候用到了recycleview布局的动画，这个有已经写好了，不符合需求也可以自定义继承类，重写方法实现
 ##3.第三方框架，LRecycleView 
 
     集成了SwipeMenu系列功能，包括item侧滑菜单，长按拖拽item，滑动删除item等功能。
