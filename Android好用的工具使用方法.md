@@ -3,8 +3,12 @@
     AS中下载ButterKnife 
 
     app的build.gradle中加入 
-    compile 'com.jakewharton:butterknife:7.0.1'
-    鼠标点击到布局文件上，右键，generate，generate ButterKnife
+     //下面两句就是依赖了
+    compile 'com.jakewharton:butterknife:8.2.1'
+    apt 'com.jakewharton:butterknife-compiler:8.2.1'
+      // 还有工程中的build.gradle,dependencies中加入下面的话
+    classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8' //主要是这句话
+    鼠标点击到布局文件上，右键，generate，generate ButterKnife
     然后就好了
     setContentView(R.layout.activity_system_player)；
    
